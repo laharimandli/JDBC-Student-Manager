@@ -4,7 +4,7 @@ public class JDBCOperations {
 
        static final String dbURL = "jdbc:mysql://localhost:3306/jdbccrud";
        static final String user="root";
-       static final  String password="Lahari@123";
+       static final  String password="000000";
 
        public static void main(String[] args){
 
